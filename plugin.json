@@ -1,0 +1,7 @@
+{
+    "name": "Elegoo Neptue 3 Thumbnail",
+    "author": "sigathi",
+    "version": "1.0.0",
+    "description": "Adds Neptune 3 Pro/Plus/Max printer compatible thumbnail to gcode",
+    "api": 8
+}
