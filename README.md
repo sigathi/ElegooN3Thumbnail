@@ -5,7 +5,7 @@ Cura 5.x plugin for including thumbnail/preview images in gcode files for Elegoo
 
 ## Installation
 
-- Download the latest relase [here](https://github.com/sigathi/mytestrepo/releases/latest/download/ElegooN3Thumbnail.curapackage).
+- Download the latest relase [here](https://github.com/sigathi/ElegooN3Thumbnail/releases/latest/download/ElegooN3Thumbnail.curapackage).
 - Drag the `.curapackage` file onto Cura and restart Cura.
 
 ## Usage
