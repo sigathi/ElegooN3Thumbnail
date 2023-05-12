@@ -1,4 +1,4 @@
-# ElegooN3Thumbnail &middot; [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+# Elegoo Neptune 3 Pro/Plus/Max Thumbnail for Cura &middot; [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 Cura 5.x plugin for including thumbnail/preview images in gcode files for Elegoo Neptune 3 Pro, Plus and Max.
 
 <img src="images/n3pro.jpg" width="250">
